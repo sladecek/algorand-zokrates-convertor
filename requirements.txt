@@ -1,0 +1,7 @@
+pyteal==0.9.1
+pyteal-utils
+py-algorand-sdk==2.0.0
+mypy==0.910
+pytest
+black==21.7b0
+py-ecc==6.0.0
